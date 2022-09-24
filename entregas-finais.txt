@@ -1,0 +1,42 @@
+* Desafios
+ Repetição
+ * -Tabuada de número maior que 0;
+ * -Lista de números digitados pelo usuário;
+ * -Estações do ano
+
+* Validação
+ * -Nome e idade (par ou ímpar)
+ 
+* Superglobals
+ * -Bhaskara com interface
+
+* IF/ELSE - Operadores
+ * -Bhaskara sem interface
+ 
+
+
+* Tutoriais
+ Repetição
+ * -PAG1 - FOR;
+ * -PAG2 - BREAK;
+ * -PAG3 - WHILE;
+ * -PAG4 - SWITCH / CASE
+
+* Validação
+ * -EMPTY
+ * -ISSET
+ * -IS_NUMERIC
+ 
+ * Superglobals
+  * -Passagem de parâmetros - index / processamento
+
+* IF/ELSE - Operadores
+ * -Operadores lógicos
+ * -Operadores relacionais
+ 
+* Conceitos / Testes iniciais
+ * -escopo
+ * -funcao
+ * -variavel
+ * -parametro
+ * -retorno
